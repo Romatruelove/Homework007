@@ -3,6 +3,7 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов n:");
 int n = Convert.ToInt32(Console.ReadLine());
 double[,] array = new double[m,n];
+
 void FillArray(double[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
