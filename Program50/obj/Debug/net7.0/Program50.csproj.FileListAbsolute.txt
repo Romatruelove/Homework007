@@ -1,0 +1,15 @@
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\bin\Debug\net7.0\Program50.exe
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\bin\Debug\net7.0\Program50.deps.json
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\bin\Debug\net7.0\Program50.runtimeconfig.json
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\bin\Debug\net7.0\Program50.dll
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\bin\Debug\net7.0\Program50.pdb
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.csproj.AssemblyReference.cache
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.AssemblyInfoInputs.cache
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.AssemblyInfo.cs
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.csproj.CoreCompileInputs.cache
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.dll
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\refint\Program50.dll
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.pdb
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\Program50.genruntimeconfig.cache
+C:\Users\romat\OneDrive\Рабочий стол\C#\Homework007\Program50\obj\Debug\net7.0\ref\Program50.dll
